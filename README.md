@@ -6,7 +6,11 @@ We are excited to launch a data science project analyzing Seattle traffic collis
 
 To prepare for this project we are hosting two virtual workshops: Exploratory Data Analysis at 6 p.m. on June 24th and Time Series Analysis at 6 p.m. on July 1st. Data science knowledge is not required, but prior experience with Jupyter notebooks and Python is important.  
 
-Workshop registration [page](https://www.meetup.com/Seattle-WiDS-Meetup/events/270738196/)  
+Workshop registration [page](https://www.meetup.com/Seattle-WiDS-Meetup/events/270738196/)
+
+#### Instructions to run this workshop
+
+For an overview on how you can run this notebook visit the [instructions file](instructions.md)
 
 #### Sponsor
 
